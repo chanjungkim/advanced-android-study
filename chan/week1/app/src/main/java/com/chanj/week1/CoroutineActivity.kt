@@ -51,6 +51,9 @@ class CoroutineActivity : AppCompatActivity() {
                 Toast.makeText(this@CoroutineActivity, "${result.await()}", Toast.LENGTH_SHORT).show()
             }
         }
+
+        // TODO: 기타... lifecycleScope(생명주기 관련), viewModelScope(ViewModel에서 사용)
+        // https://developer.android.com/topic/libraries/architecture/coroutines
     }
 
     private fun updateUI(){
