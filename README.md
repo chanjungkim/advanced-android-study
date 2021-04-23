@@ -22,4 +22,16 @@
 
 ### Our Trace
 - [Week1 - Kotlin, Coroutine](week1.md)
+- [Week2 - ViewModel, DataBinding, LiveData](week2.md)
+- [Week3 - ](week3.md)
+- [Week4 - ](week4.md)
+- [Week5 - ](week5.md)
+- [Week6 - ](week6.md)
+- [Week7 - ](week7.md)
+- [Week8 - ](week8.md)
+- [Week9 - ](week9.md)
+- [Week10 - ](week10.md)
+- [Week11 - ](week11.md)
+- [Week12 - ](week12.md)
 
+## 다뤄볼만한 주제: Repository, Gradle, 구글 I/O나 GDC 등 자료 스터디
