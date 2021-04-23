@@ -17,6 +17,6 @@
 - LiveData: https://developer.android.com/codelabs/kotlin-android-training-view-model#0
 - DataBinding: https://developer.android.com/codelabs/android-databinding#0
 
-#### Our Trace
+### Our Trace
 <a href="week1.md">Week1 - Kotlin, Coroutine</a>
 
