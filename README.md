@@ -10,7 +10,7 @@
 - https://classroom.udacity.com/courses/ud940
 
 #### Architecture
-- 교재: 아키텍처를 알아야 앱 개발이 보인다
+- 교재: [아키텍처를 알아야 앱 개발이 보인다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791190014878)
 
 #### Google I/O, 구글 블로그 등등
 - https://android-developers.googleblog.com/
@@ -21,5 +21,5 @@
 - DataBinding: https://developer.android.com/codelabs/android-databinding#0
 
 ### Our Trace
-- <a href="week1.md">Week1 - Kotlin, Coroutine</a>
+- [Week1 - Kotlin, Coroutine](week1.md)
 
