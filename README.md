@@ -34,4 +34,5 @@
 - [Week11 - ](week11.md)
 - [Week12 - ](week12.md)
 
-## 다뤄볼만한 주제: Repository, Gradle, 구글 I/O나 GDC 등 자료 스터디, Week6부터는 같이 앱을 만들어가도 될듯
+## 다뤄볼만한 주제:
+Repository, Gradle, 구글 I/O나 GDC 등 자료 스터디, Week6부터는 같이 앱을 만들어가도 될듯
