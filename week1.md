@@ -46,7 +46,7 @@
 1. dongon: 비공개 블로그..
 2. hana : https://github.com/leeHana21/Android_study
 3. sejun : https://github.com/LimSeJun/study/blob/main/4-23_%EC%8A%A4%ED%84%B0%EB%94%94_Coroutine.docx
-4. Chan: https://github.com/chanjungkim/advanced-android-study
+4. Chan: https://github.com/chanjungkim/advanced-android-study/tree/main/chan/week1
 
 각자 부족한 부분 스터디를 하되 대주제를 정해 어느 정도 다 같이 따라가는 방식(추후 같이 프로젝트 진행 위함). 발표 방식은 자유 but 주제 기반 샘플앱으로 만들면 best.(가르치는 게 아니라 본인이 필요했던 내용을 공유)
 * 코드로 만들어와도 강조하시거나 중요하시다고 생각하시는 부분은 설명을 좀 준비해오면 좋을 것 같습니다. 아무래도 코드만 보여주고 끝나면 스터디는 아니게 될 것 같아서요.
