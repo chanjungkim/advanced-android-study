@@ -40,6 +40,10 @@
 * 코드로 만들어와도 강조하시거나 중요하시다고 생각하시는 부분은 설명을 좀 준비해오면 좋을 것 같습니다. 아무래도 코드만 보여주고 끝나면 스터디는 아니게 될 것 같아서요.
 * 어느정도 이론 워밍업이 끝나면 샘플프로젝트 주제를 정해서 각자 해오고 코드 비교 하는 것도 좋을 것 같아요.
 
+- 본 Repository 공유 사용(개인 블로그, 개인 Repository도 괜찮지만 이 Repository의 개인 폴더 안에 링크로 남겨주세요.)
+
+- 매 밋업이 끝나면 본인이 부족한 부분들을 체크한다.
+
 ## 다음 대주제: ViewModel, DataBinding, LiveData
 해보실 만한 codelab은 다음과 같습니다.
 - ViewModel: https://developer.android.com/codelabs/kotlin-android-training-view-model#0
