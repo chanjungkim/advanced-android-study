@@ -72,7 +72,7 @@
 - [Making More Waves - Sampler](https://developer.android.com/codelabs/making-waves-2-sampler)
 - [Making Waves Part 1 - Build a Synthesizer](https://developer.android.com/codelabs/making-waves-1-synth)
 - [Media streaming with ExoPlayer](https://developer.android.com/codelabs/exoplayer-intro)
-- 
+
 #### 기타 재밌는 주제
 - [Build a musical game using Oboe](https://developer.android.com/codelabs/musicalgame-using-oboe?hl=en)
 - [Building Android Apps with Bazel](https://developer.android.com/codelabs/bazel-android-intro)
