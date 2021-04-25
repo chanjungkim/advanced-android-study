@@ -37,10 +37,10 @@
 - [WorkManager](https://developer.android.com/codelabs/android-adv-workmanager)
 
 #### Test(UI Test는 자세히 다루지 않고 맛만 보기)
-- (Advanced Android in Kotlin 05.1: Testing Basics)[https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics]
-- (Advanced Android in Kotlin 05.2: Introduction to Test Doubles and Dependency Injection)[https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles]
-- (Advanced Android in Kotlin 05.3: Survey of Testing Topics)[https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey]
-- ((Automated Accessibility Testing using Espresso)[https://developer.android.com/codelabs/a11y-testing-espresso])
+- [Advanced Android in Kotlin 05.1: Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
+- [Advanced Android in Kotlin 05.2: Introduction to Test Doubles and Dependency Injection](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles)
+- [Advanced Android in Kotlin 05.3: Survey of Testing Topics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey)
+- ([Automated Accessibility Testing using Espresso](https://developer.android.com/codelabs/a11y-testing-espresso))
 
 ##### Design, View, Animation 관련
 - [Use ConstraintLayout to design your Android views](https://developer.android.com/codelabs/constraint-layout)
