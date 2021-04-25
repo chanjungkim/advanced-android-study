@@ -36,7 +36,7 @@
 - [Working with Proto DataStore](https://developer.android.com/codelabs/android-proto-datastore)
 - [WorkManager](https://developer.android.com/codelabs/android-adv-workmanager)
 
-#### Test(UI Test는 자세히 다루지 않고 맛만 보기)
+##### Test(UI Test는 자세히 다루지 않고 맛만 보기)
 - [Advanced Android in Kotlin 05.1: Testing Basics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics)
 - [Advanced Android in Kotlin 05.2: Introduction to Test Doubles and Dependency Injection](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles)
 - [Advanced Android in Kotlin 05.3: Survey of Testing Topics](https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey)
@@ -56,28 +56,31 @@
 - [Advanced Android in Kotlin 03.1: Property Animation](https://developer.android.com/codelabs/advanced-android-kotlin-training-property-animation)
 - [Advanced Android in Kotlin 03.2: Animation with MotionLayout](https://codelabs.developers.google.com/codelabs/motion-layout)
 
-#### 깊은 내용
+##### 깊은 내용
 - [Calling Kotlin Code from Java](https://codelabs.developers.google.com/codelabs/java-friendly-kotlin)
 - [Create Hello-CMake with Android Studio](https://developer.android.com/codelabs/android-studio-cmake)
 
-#### Case By Case
+##### Case By Case
 - [Direct Share to an Android app](https://developer.android.com/codelabs/android-direct-share)
 - [Login with Biometrics on Android](https://developer.android.com/codelabs/biometric-login)
 - [Support foldable and dual-screen devices with Jetpack WindowManager](https://developer.android.com/codelabs/android-window-manager-dual-screen-foldables)
 - [Managing Android Devices Without an App](https://developer.android.com/codelabs/android-management-api)
 
-#### 미디어 관련
+##### 미디어 관련
 - [Getting Started with CameraX](https://developer.android.com/codelabs/camerax-getting-started)
 - [Controlling media through MediaSession](https://codelabs.developers.google.com/codelabs/supporting-mediasession)
 - [Making More Waves - Sampler](https://developer.android.com/codelabs/making-waves-2-sampler)
 - [Making Waves Part 1 - Build a Synthesizer](https://developer.android.com/codelabs/making-waves-1-synth)
 - [Media streaming with ExoPlayer](https://developer.android.com/codelabs/exoplayer-intro)
 
-#### 기타 재밌는 주제
+##### 기타 재밌는 주제
 - [Build a musical game using Oboe](https://developer.android.com/codelabs/musicalgame-using-oboe?hl=en)
 - [Building Android Apps with Bazel](https://developer.android.com/codelabs/bazel-android-intro)
 - [Extend an Android app to Google Assistant with App Actions](https://codelabs.developers.google.com/codelabs/appactions)
 - [Extend an Android app to Google Assistant with App Actions (Level 2)](https://codelabs.developers.google.com/codelabs/appactions-2)
+
+### 발표 자료
+- [NAVER 발표 자료](naver.md)
 
 ### Our Trace
 - [Week1 - Kotlin, Coroutine](week1.md)
