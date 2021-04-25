@@ -20,6 +20,7 @@
 
 ### 발표 자료
 - [NAVER 발표 자료](naver.md)
+- [Kakao 발표 자료](kakao.md)
 
 ### Our Trace
 - [Week1 - Kotlin, Coroutine](week1.md)
