@@ -19,7 +19,7 @@
 
 ##### 공통
 - [Coroutines](https://codelabs.developers.google.com/codelabs/kotlin-coroutines/index.html)
-- [ViewModel](https://developer.android.com/codelabs/kotlin-android-training-view-model#0)\
+- [ViewModel](https://developer.android.com/codelabs/kotlin-android-training-view-model#0)
 - [Navigation](https://developer.android.com/codelabs/android-navigation)
 - [Android Kotlin Fundamentals: LiveData and LiveData observers](https://developer.android.com/codelabs/kotlin-android-training-live-data?hl=en)
 - [DataBinding](https://developer.android.com/codelabs/android-databinding#0)
