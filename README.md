@@ -35,4 +35,5 @@
 - [Week12 - ](week12.md)
 
 ## 다뤄볼만한 주제:
-Repository, Gradle, 구글 I/O나 GDC 등 자료 스터디, Week6부터는 매 회차별 간단한 앱을 만들어가도 될듯
+
+- Chanjung: Repository, Gradle, 구글 I/O나 GDC 등 자료 스터디, Week6부터는 매 회차별 간단한 앱을 만들어가도 될듯
