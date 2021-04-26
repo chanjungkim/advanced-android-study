@@ -43,7 +43,7 @@
 4. 찬중님: 부족한 부분 공유, 간단한 앱 구현도 나중 고려
 
 ### 발표
-1. dongon: 비공개 블로그..
+1. dongon: https://velog.io/@leesrock113/Kotlin-Scoping-Functions-apply-also-run-let-with
 2. hana : https://github.com/leeHana21/Android_study
 3. sejun : https://github.com/LimSeJun/study/blob/main/4-23_%EC%8A%A4%ED%84%B0%EB%94%94_Coroutine.docx
 4. Chan: https://github.com/chanjungkim/advanced-android-study/tree/main/chan/week1
