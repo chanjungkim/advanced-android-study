@@ -14,6 +14,7 @@
 
 #### Google I/O, 구글 블로그 등등
 - https://android-developers.googleblog.com/
+- MAD skills: https://developer.android.com/series/mad-skills
 
 ### Hands-on
 - [Google Codelabs](codelabs.md)
