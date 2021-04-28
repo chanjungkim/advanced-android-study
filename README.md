@@ -17,6 +17,9 @@
 #### Architecture
 - 교재: [아키텍처를 알아야 앱 개발이 보인다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791190014878)
 
+#### Performance
+- [Android Peformance Patterns](https://www.youtube.com/watch?v=_ioFW3cyRV0&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+
 #### Google I/O, 구글 블로그 등등
 - https://android-developers.googleblog.com/
 - MAD skills: https://developer.android.com/series/mad-skills
