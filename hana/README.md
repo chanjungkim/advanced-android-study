@@ -1,4 +1,7 @@
 # advanced-android-study
 
-# 부족한 점, 해보고 싶은 것, 목표 등
-## [20210423 1회차 AndroidStudy - coroutine](https://github.com/leeHana21/Android_study/blob/main/kotlin_coroutine_organize.md)
+# study 정리 내용
+
+### [1화차 / 2021.04.23 / kotlin-coroutine](https://github.com/leeHana21/Android_study/blob/main/kotlin_coroutine_organize.md)
+
+### [2회차 / 2021.05.07 / ViewModel, DataBinding, LiveData](https://github.com/leeHana21/Android_study/blob/main/viewModel_dataBinding_liveData_organize.md)
