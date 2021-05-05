@@ -1,3 +1,2 @@
-# advanced-android-study
-
-# 부족한 점, 해보고 싶은 것, 목표 등
+#### Week1 https://velog.io/@leesrock113/Kotlin-Scoping-Functions-apply-also-run-let-with
+#### Week2 https://velog.io/@leesrock113/Coroutine%EA%B3%BC-Thread
