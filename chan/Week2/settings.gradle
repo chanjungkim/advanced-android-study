@@ -1,0 +1,5 @@
+include ':binding'
+include ':livedata'
+include ':viewmodel'
+include ':app'
+rootProject.name = "Week2"
