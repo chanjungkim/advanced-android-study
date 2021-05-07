@@ -13,7 +13,7 @@ import com.chanj.binding.databinding.ActivityMain3Binding
  */
 class MainActivity : AppCompatActivity() {
     val viewModel: MainViewModel by viewModels()
-    lateinit var binding : ActivityMain3Binding
+    lateinit var binding : ActivityMain3Binding // XML이름에 따라서 자동 생성
 
 //    lateinit var tvName: TextView
 
