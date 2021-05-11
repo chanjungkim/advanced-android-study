@@ -1,9 +1,6 @@
 package com.chanj.week3
 
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.Job
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.*
 import org.junit.Assert.assertEquals
 import org.junit.Test
 import kotlin.system.measureTimeMillis
@@ -14,7 +11,7 @@ import kotlin.system.measureTimeMillis
  * See [testing documentation](http://d.android.com/tools/testing).
  */
 class ExampleUnitTest {
-    val reps = 1000
+    val reps = 10000
     val sumSize = 999
 
     @Test
@@ -31,11 +28,9 @@ class ExampleUnitTest {
         val time = measureTimeMillis {
             repeat(reps) {
                 val mThread = Thread {
-//                    println("start: ${Thread.currentThread().name}")
-                    for (i in 0..sumSize) {
-                        sum += i
-                    }
-//                    println("end: ${Thread.currentThread().name}")
+                    println("start: ${Thread.currentThread().name}")
+                    Thread.sleep(1000L)
+                    println("end: ${Thread.currentThread().name}")
                 }
                 mThread.start()
                 threadList += mThread
@@ -60,11 +55,9 @@ class ExampleUnitTest {
             val time = measureTimeMillis {
                 repeat(reps) {
                     val job = launch(Dispatchers.Default) {
-//                        println("start: ${Thread.currentThread().name}")
-                        for (i in 0..sumSize) {
-                            sum += i
-                        }
-//                        println("end: ${Thread.currentThread().name}")
+                        println("start: ${Thread.currentThread().name}")
+                        delay(1000L)
+                        println("end: ${Thread.currentThread().name}")
                     }
                     jobList += job
                 }
