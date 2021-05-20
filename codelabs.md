@@ -41,6 +41,7 @@
 - [Advanced Android in Kotlin 03.2: Animation with MotionLayout](https://codelabs.developers.google.com/codelabs/motion-layout)
 
 ##### 깊은 내용
+- [Android Network Security Configuration Codelab](https://developer.android.com/codelabs/android-network-security-config#0)
 - [Calling Kotlin Code from Java](https://codelabs.developers.google.com/codelabs/java-friendly-kotlin)
 - [Create Hello-CMake with Android Studio](https://developer.android.com/codelabs/android-studio-cmake)
 
