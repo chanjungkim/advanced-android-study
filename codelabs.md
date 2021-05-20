@@ -8,6 +8,7 @@
 - [DataBinding](https://developer.android.com/codelabs/android-databinding#0)
 - [Android Kotlin Fundamentals: Data binding with ViewModel and LiveData](https://developer.android.com/codelabs/kotlin-android-training-live-data-data-binding?hl=en)
 - [Android Kotlin Fundamentals: Use LiveData to control button states](https://developer.android.com/codelabs/kotlin-android-training-quality-and-states?hl=en)
+- [Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
 - [Working with Preferences DataStore](https://developer.android.com/codelabs/android-preferences-datastore#0)
 - [Android Kotlin Fundamentals: Create a Room Database](https://developer.android.com/codelabs/kotlin-android-training-room-database?hl=en)
 - [Room with a View - Kotlin](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0)
