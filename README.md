@@ -19,6 +19,7 @@
 
 #### Performance
 - [Android Peformance Patterns](https://www.youtube.com/watch?v=_ioFW3cyRV0&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE)
+- [Benchmark 성능 측정](https://developer.android.com/studio/profile/benchmark)
 
 #### Google I/O, 구글 블로그 등등
 - https://android-developers.googleblog.com/
