@@ -40,6 +40,10 @@
 - [NAVER 발표 자료](naver.md)
 - [Kakao 발표 자료](kakao.md)
 - [드로이드 나이츠](droidnights.md)
+- 
+### 기타 역량
+
+- ?
 
 ### Open API
 
