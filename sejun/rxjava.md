@@ -50,3 +50,29 @@ Observable은 onNext, onComplete, onError 등의 함수로 Observer에 전달하
 });
 출처: https://selfish-developer.com/entry/RxJava-Observable-Observer?category=851285 [아는 개발자]
 ```
+
+### 연산자         
+[연산자](http://reactivex.io/documentation/ko/operators.html)
+    
+    
+### Single
+Observable의 한 형태이지만 항상 한가지 값 또는 Error 둘중 하나만 emit 한다.
+이러한 이유때문에 원래 Observable을 구독할때 사용하던 세개의 메서드 (onNext, onError, onCompleted) 대신에   
+onSuccess - Single은 자신이 emit하는 하나의 값을 이 메서드를 통해 전달한다
+onError - Single은 emit 오류시에 이 메서드를 통해 Throwable 객체를 전달한다.
+  
+Single은 이 메서드중 하나만 그리고 한번만 호출하며, 메서드가 호출되면 Single의 생명주기가 끝나고 구독도 종료된다.
+
+### Subject
+Subject는 Observable과 Observer의 두가지 속성을 모두 가진다. 즉 Observable을 구독하고 동시에 Observable이기도 하기때문에 결과들을 emit할수 있다.  
+또한 Cold Observable을 Hot Observable로변경한다.
+>Cold는 구독하기 전까지 데이터를 방출하지 않는 Lazy한 접근법이고
+Hot은 구독자의 존재 여부 관계없이 데이터블 발행하는 Observable이다.  
+
+### Scheduler
+스케줄러는 구독과 발행이 동작하는 스레드를 지정할 수 있게해준다.
+- subscribeOn Observable에서 데이터 흐름이 발행되는 스레드
+- observerOn 처리된 결과를 구독자에게 발행하는 스레드
+- subcribeOn만 호출하면 Observable의 모든 흐름이 설정한 스레드에서 실행됨
+- 스케줄러를 지정하지않으면 main 스레드에서 동작
+
