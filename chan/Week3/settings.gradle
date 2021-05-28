@@ -1,2 +1,3 @@
 include ':app'
+include ':codelab-repository'
 rootProject.name = "Week3"
