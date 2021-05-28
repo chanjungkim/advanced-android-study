@@ -16,7 +16,7 @@ Observable한 결과들을 이용하여 비동기나 이벤트 based 프로그�
     - Observable의 관찰가능한 데이터를 전달받고 전달받은 결과에따른 행동을 수행하는 클래스
   
    
-![Obs](https://t1.daumcdn.net/cfile/tistory/99D4D7415D4E552B20)
+![Obs](https://t1.daumcdn.net/cfile/tistory/99D4D7415D4E552B20)     
 Observable은 onNext, onComplete, onError 등의 함수로 Observer에 전달하고 Observer는 이러한 함수를 구현해서 결과에대한 반응을 한다.
 
 #### 예제 코드
