@@ -54,7 +54,7 @@
 - [Week1 - Kotlin, Coroutine](week1.md)
 - [Week2 - ViewModel, DataBinding, LiveData](week2.md)
 - [Week3 - Repository, Room + a](week3.md)
-- [Week4 - ](week4.md)
+- [Week4 - Hilt](week4.md)
 - [Week5 - ](week5.md)
 - [Week6 - ](week6.md)
 - [Week7 - ](week7.md)
