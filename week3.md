@@ -7,7 +7,7 @@
 3. sejun: https://github.com/chanjungkim/advanced-android-study/blob/main/sejun/rxjava.md
 4. donggon: 
 
-## 다음 대주제: 
+## 다음 대주제: Hilt
 
 해보실 만한 codelab은 다음과 같습니다.
 - Hilt: https://developer.android.com/codelabs/android-hilt#0
