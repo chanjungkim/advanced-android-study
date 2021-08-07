@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="ui"
+            type="org.koreanlab.myapp.components.ui.main.MainActivity" />
+        <variable
+            name="vm"
+            type="org.koreanlab.myapp.components.ui.main.MainViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="org.koreanlab.myapp.components.ui.main.MainActivity">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="@{vm.title}"
+            tools:text="Chan, Do not forget"
+            android:textColor="#059"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+        />
+
+        <View
+            android:id="@+id/v_horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#999"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_title"
+            />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcv_memo"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:paddingTop="15dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="5dp"
+            app:layout_constraintTop_toBottomOf="@id/v_horizontal"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            android:orientation="vertical"
+            app:items="@{vm.memoList}"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/item_memo"/>
+
+        <EditText
+            android:id="@+id/et_memo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingRight="15dp"
+            android:paddingLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:hint="Write your memo."
+            app:layout_constraintTop_toBottomOf="@id/rcv_memo"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            />
+
+        <Button
+            android:id="@+id/btn_add"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="ADD Memo"
+            app:layout_constraintTop_toBottomOf="@id/et_memo"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintHorizontal_bias="0.2"
+            />
+
+        <Button
+            android:id="@+id/btn_clear"
+            android:layout_width="100dp"
+            android:layout_height="60dp"
+            android:text="CLEAR"
+            app:layout_constraintTop_toBottomOf="@id/et_memo"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintHorizontal_bias="0.8"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
