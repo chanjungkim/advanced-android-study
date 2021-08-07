@@ -9,4 +9,4 @@
 1. Test Doubles and Dependency Injection - https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-test-doubles
 2. Survey of Testing Topics - https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-survey#0
 3. Automated Accessibility Testing using Espresso - https://developer.android.com/codelabs/a11y-testing-espresso#0
-4. Kotlin Flow and LiveData
+4. Kotlin Flow and LiveData - https://developer.android.com/codelabs/advanced-kotlin-coroutines#0
